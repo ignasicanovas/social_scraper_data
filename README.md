@@ -1,4 +1,4 @@
-# Sociai Scraper Data
+# Social Scraper Data
 Crawl data in website (newspaper, social media,...) using BeautiifulSoup, newspaper
 
 ## vnexpress.net
